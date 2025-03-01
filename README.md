@@ -1,3 +1,3 @@
 # ARCADE
-Juegos Arcade con físicas, inteligencia artificial e historiales
-Se acepta personalización
+<p>Juegos Arcade con físicas, inteligencia artificial e historiales</p>
+<p>Se acepta personalización</p>
